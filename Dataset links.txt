@@ -1,0 +1,2 @@
+1. https://paperswithcode.com/task/speech-emotion-recognition#datasets
+2. https://github.com/CheyneyComputerScience/CREMA-D/blob/master/AudioWAV/1001_IWL_HAP_XX.wav
